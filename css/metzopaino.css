@@ -1,14 +1,15 @@
 body {
-	background-color: #e7e7e2;
+	background-color: #F0F0F0; /* #e8e8e4 */
 }
 img:hover {
 	  opacity: 0.5;
-		background: #000;
+		background: #ffffff;
 		transform:scale(1.025,1.025);
 }
 .skill {
 	line-height: 0px;
-	background-color: aqua;
+	color: #A71812;
+	font-size: 12px;
 }
 .second-line-title {
 	line-height: 0px;
@@ -19,4 +20,7 @@ h3 {
 }
 .row {
 	margin-left: 0px !important;
+}
+.navbar-default {
+	background-color: white;
 }
