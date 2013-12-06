@@ -24,3 +24,15 @@ h3 {
 .navbar-default {
 	background-color: white;
 }
+.navbar-icons {
+	font-size: 50px;
+}
+.navbar-brand {
+	font-size: 50px;
+	line-height: 50px;
+}
+
+
+/* assets */
+.outbound-link-button {
+}
